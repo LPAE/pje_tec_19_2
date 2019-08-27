@@ -1,1 +1,1 @@
-PBS (Product Breakdown Structure)
+PBS (Product Breakdown Structure) / Estrutura de Divisão de Produto
