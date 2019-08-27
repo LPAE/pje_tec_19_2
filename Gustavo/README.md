@@ -1,3 +1,7 @@
+
+Proposta TCC: Comunicação entre dispositivos com radio LoRa até um Gateway com LoRa-WiFi. O Gateway exportará os dados para um servidor em nuvem (algum tipo de PaaS). O Servidor executa algoritmo de aprendizado de máquina (machine learning), já treinado, que decide que ação tomar. Cenário de aplicação: Sensores de umidade para ativação de sistema de irrigação. Dependendo de dados de umidade lidos e um web scraping em páginas de previsão do tempo (entradas do algoritmo), o output mandará ativar ou não o sistema, e no caso de ativação, por quanto tempo a irrigação será realizada.
+
+
 Termo de abertura do projeto (TAP)
 
 
