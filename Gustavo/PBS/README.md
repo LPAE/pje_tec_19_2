@@ -4,4 +4,4 @@ PBS (Product Breakdown Structure) / Estrutura de Divisão de Produto
 
 NOME? - Controle de irrigações através de sensores de umidade conectados via LoRa-WiFi.
 
-Mapa mental disponível no arquivo PBS_GPS_v1.0
+Mapa mental disponível no arquivo PBS_GPS_v2.0
